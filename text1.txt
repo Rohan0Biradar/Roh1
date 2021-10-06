@@ -1,11 +1,2 @@
- Volume in drive C has no label.
- Volume Serial Number is 9A88-E61A
+git code
 
- Directory of C:\Users\Sandeep\Desktop\project git
-
-06-10-2021  11:57    <DIR>          .
-06-10-2021  11:57    <DIR>          ..
-06-10-2021  11:56    <DIR>          .git
-06-10-2021  11:57                 0 text1.txt
-               1 File(s)              0 bytes
-               3 Dir(s)  158,302,400,512 bytes free
